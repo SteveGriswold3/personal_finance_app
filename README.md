@@ -19,6 +19,17 @@ Ultimately tracking personal finances at this level is meant to inspire personal
 ## Repo Development
 I have many hobbies and interests.  Therefore, I am not sure how fast I will get this project to a first working version, but I look forward to sharing my work and growth with others interested in personal finance.
 
+## Getting Started:
+To begin fork and clone, then leverage the MakeFile:
+```
+make venv
+source venv/bin/activate
+make init
+make run
+deactivate
+make clean
+```
+
 ## Disclaimer
 I am an open source developer, not a financial expert.  Please do not rely on this app for financial advice.  Please seek your own accountant or financial expert.  Anything included in the repo is by personal growth and preference of the developer.  Which should not be used as financial advice nor legal advice of any kind.  Please feel free to copy and modify the app to your own financial desire.
 
